@@ -1,0 +1,3 @@
+/Users/arama/Desktop/Code/RotatingCubeSDL2/cmake-build-debug/CMakeFiles/RotatingCubeSDL2.dir
+/Users/arama/Desktop/Code/RotatingCubeSDL2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arama/Desktop/Code/RotatingCubeSDL2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
